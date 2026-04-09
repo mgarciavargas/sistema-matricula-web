@@ -1,0 +1,13 @@
+# Credenciales - NUNCA subir
+config.php
+
+# Logs de errores
+error_log
+*/error_log
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Dependencias / caché
+*.log
